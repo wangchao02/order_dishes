@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/components/dishes/dishes",
+    "pages/components/take/take"
+  ],
+  "window": {
+    "backgroundColor":"#FF0000",
+    "backgroundTextStyle": "ligth",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "菜单",
+    "navigationBarTextStyle": "black"
+  }
+}
